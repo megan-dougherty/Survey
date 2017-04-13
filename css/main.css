@@ -1,0 +1,37 @@
+html, body {
+	height:100%;
+}
+
+body {
+	background-image:url('../img/background.jpg');
+	background-position: cover;
+	background-repeat: no-repeat;
+	
+}
+h1 {
+	margin-top: 5px;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+}
+
+#mainForm {
+	font-family: 'Playfair Display', serif;
+	width: 40%;
+    padding: 40px;
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+    background-color: rgba(0, 0, 0, .3);
+    margin-top: 20px;
+    border-radius: 33px;
+    color: white;
+}
+
+button {
+	font-family: 'Playfair Display', serif;
+	margin-top: 10px;
+	margin-left: 15px;
+	padding: 4px;
+
+
+}

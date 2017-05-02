@@ -1,13 +1,14 @@
-html, body {
-	height:100%;
+html {
+ margin-bottom: 0;
 }
 
 body {
 	background-image:url('../img/background.jpg');
 	background-position: cover;
 	background-repeat: no-repeat;
-	
 }
+
+
 h1 {
 	margin-top: 5px;
 	font-family: 'Playfair Display', serif;
